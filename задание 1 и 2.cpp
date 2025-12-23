@@ -1,11 +1,4 @@
-// 1 and 2 zadanie
-
-
-
-// ٩(◕‿◕｡)۶ 
-
-
-
+// 1 и 2 задание 
 #include <iostream> 
 #include <cmath> 
 
@@ -172,4 +165,5 @@ int main() {
     }
     return 0;
 }
+
 
